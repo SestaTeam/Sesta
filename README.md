@@ -10,8 +10,6 @@ Teknofest Türkçe Doğal Dil İşleme yarışması için Sesta Team'in hazırla
 ## Aşamalar
 Veriseti düzenlenmiştir sonrasında RNN ile eğitilmiştir. Yüzde 78 başarı oranına sahiptir.
 
-### Bilgisayarınızda Açın
-
 
 Proje dizinine gidin
 
